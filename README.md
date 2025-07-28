@@ -38,11 +38,11 @@ A modern, containerized development environment for React applications with Type
 1. **Use this template**
    ```bash
    # Option 1: Clone this repository
-   git clone https://github.com/yourusername/react-starter-template.git my-project
+   git clone https://github.com/schalk-conradie/quickstart-devpod.git my-project
    cd my-project
    
    # Option 2: Use with DevPod
-   # Enter this repo URL as workspace source in DevPod
+   # Enter https://github.com/schalk-conradie/quickstart-devpod as workspace source in DevPod
    ```
 
 2. **Open in VS Code**
@@ -88,7 +88,7 @@ claude "Generate unit tests for this component"
 ## 📁 Project Structure
 
 ```
-my-project/
+quickstart-devpod/
 ├── .devcontainer/
 │   └── devcontainer.json      # Container configuration
 ├── src/
